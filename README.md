@@ -6,7 +6,7 @@ NLP, time-series forecasting, and LLM integration.
 ## 🚀 Featured Projects
 | Project | Description | Tech |
 |---------|-------------|------|
-| [Autonomous SQL Analysis Agent](https://github.com/kju4q/autonomous-sql-agent) | Agentic AI that autonomously queries retail databases, identifies anomalies, and generates executive-level narrative insights | LangChain · GPT-4o · SQLAlchemy · Python |
+| [Autonomous SQL Analysis Agent](https://github.com/twinklebhakri/Autonomous-AI-Agent) | Agentic AI that autonomously queries retail databases, identifies anomalies, and generates executive-level narrative insights | LangChain · GPT-4o · SQLAlchemy · Python |
 | [RAG Financial Analyzer](https://github.com/twinklebhakri/rag-financial-analyzer) | Ask plain-English questions against any financial report PDF | FAISS · sentence-transformers · OpenAI · Python |
 | [Customer Churn Predictor](https://github.com/twinklebhakri/customer-churn-predictor) | Explainable churn prediction with SHAP | XGBoost · SHAP · scikit-learn · Python |
 
