@@ -1,5 +1,5 @@
 # Hi, I'm Twinkle 👋
-Data Scientist with 3+ years of experience building ML and AI solutions.
+Data Scientist with 5+ years of experience in analytics - building ML and AI solutions.
 Currently at Canadian Tire Corporation, working on causal inference,
 NLP, time-series forecasting, and LLM integration.
 
